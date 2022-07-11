@@ -9,6 +9,6 @@ I am a Self-Built Programmer who likes to stay updated with the latest technolog
 - 🤝 How to reach me:               <b> nrohit2314@gmail.com </b>
 - 👨‍💻 Get to know me:                <b> <a href="https://www.linkedin.com/in/rohit-nidimukkala/">LinkedIn</a> </b>
 - 👔 Pronouns:                      <b> He/His </b>
-- 🎇 Fun fact:                      <b> I am good at making Miniature Crafts from Popular Games - <a href="https://www.youtube.com/channel/UCyQAiv4i6EUDVI8vV45CQ3g">Youtube</a></b>
+- 🎇 Fun fact:                      <b> I am good at making Miniature Crafts using Resin Clay from Popular Games - <a href="https://www.youtube.com/channel/UCyQAiv4i6EUDVI8vV45CQ3g">Youtube</a></b>
 
 <!-- ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-rohit&theme=chartreuse-dark&show_icons=true) -->
