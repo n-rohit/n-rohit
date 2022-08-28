@@ -3,8 +3,8 @@ I am a Self-Built Programmer who likes to stay updated with the latest technolog
 <br><br>
 
 - 💻 I’m currently working on       <b> Flask APIs </b>
-- 🧮 I’m currently learning         <b> Flask REST Framework </b> <!-- - 👯 I’m looking to collaborate on  <b> -->
-- 🤔 I’m looking for help with      <b> Angular or React Courses/Tutorials </b>
+- 🧮 I’m currently learning         <b> React JS </b>                   <!-- - 👯 I’m looking to collaborate on  <b> -->
+- 🤔 I’m looking for help with      <b> Angular Courses/Tutorials </b>
 - 💬 Ask me about                   <b> Python - Flask, Django, Machine Learning & Deep Learning </b>
 - 🤝 How to reach me:               <b> nrohit2314@gmail.com </b>
 - 👨‍💻 Get to know me:                <b> <a href="https://www.linkedin.com/in/rohit-nidimukkala/">LinkedIn</a> </b>
