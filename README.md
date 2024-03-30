@@ -1,11 +1,11 @@
 ### Hi there, I'm Rohit Nidimukkala! 👋
-I am a Self-Built Programmer who likes to stay updated with the latest technologies in the market. I see myself in an organization that would challenge me to sharpen my skills. I like to give equal importance to my work and my social life, hence I would like a Flexible Environment.
+I am a Self-Taught Programmer with a passion for staying updated on the latest technologies. With additional skills in Design, and Artistry, I also enjoy cooking. Balancing work and social life is important to me, and I thrive in a flexible work environment.
 <br><br>
 
-- 💻 I’m currently working on       <b> Odoo ERP 🟣 </b>
-- 🧮 I’m currently learning         <b> React Native </b>                   <!-- - 👯 I’m looking to collaborate on  <b> -->
-- 🤔 I’m looking for help with      <b> React Native Courses/Tutorials </b>
-- 💬 Ask me about                   <b> Python - Flask, Django, Odoo ERP, Machine Learning & Deep Learning; HTML, CSS & Javascript </b>
+- 💻 I’m currently working on       <b> Android Automotive Custom VFrame Development </b>
+- 🧮 I’m currently learning         <b> C++ in Machine Learning </b>                   <!-- - 👯 I’m looking to collaborate on  <b> -->
+- 🤔 I’m looking for help with      <b> Reasearch Papers and Articles related to C++ in Machine Learning </b>
+- 💬 Ask me about                   <b> C, C++, Python - Flask, Django, Odoo ERP, Machine Learning & Deep Learning; HTML, CSS & Javascript </b>
 - 🤝 How to reach me:               <b> nrohit2314@gmail.com </b>
 - 👨‍💻 Get to know me:                <b> <a href="https://www.linkedin.com/in/rohit-nidimukkala/">LinkedIn</a> </b>
 - 👔 Pronouns:                      <b> He/His </b>
